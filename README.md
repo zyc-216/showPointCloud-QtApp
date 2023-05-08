@@ -4,4 +4,4 @@
 OS:Windows
 
 <img src="https://github.com/zyc-216/showPointCloud-QtApp/blob/main/pointCloudApp.png" width="100px">
-![image](https://github.com/zyc-216/showPointCloud-QtApp/blob/main/sample.png)
+<img src="https://github.com/zyc-216/showPointCloud-QtApp/blob/main/sample.png" width="100px">
