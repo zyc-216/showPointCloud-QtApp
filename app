@@ -1,1 +1,1 @@
-Application here. Download and run directly.
+Application(Windows) here. Download and run directly.
