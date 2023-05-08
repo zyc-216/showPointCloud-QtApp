@@ -3,5 +3,5 @@
     User can download the app and run directly.
 OS:Windows
 
-<img src="https://github.com/zyc-216/showPointCloud-QtApp/blob/main/pointCloudApp.png" width="100px">
-<img src="https://github.com/zyc-216/showPointCloud-QtApp/blob/main/sample.png" width="100px">
+<img src="https://github.com/zyc-216/showPointCloud-QtApp/blob/main/pointCloudApp.png" width="800px">
+<img src="https://github.com/zyc-216/showPointCloud-QtApp/blob/main/sample.png" width="400px">
